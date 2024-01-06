@@ -1,0 +1,5 @@
+This is Student Grade Calculator where the user needs to enter the student's name, number of subjects and marks in each subject.
+
+Then the total marks of the student ,  percentage and grade of the student will be calculated.
+
+And the details of the student(Report Card) will be printed.
