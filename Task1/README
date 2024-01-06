@@ -1,0 +1,7 @@
+This is a simple Number Guess game where the computer generates a random number between 1 to 100.
+
+And the user will be given 6 chances to guess the number.
+
+The computer also gives the prompt whether the number guessed is too high or low than the generated number.
+
+At last, the score will be displayed.
