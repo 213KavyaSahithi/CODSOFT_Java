@@ -1,0 +1,11 @@
+This is an ATM Interface created using Java
+
+It has several options like
+1) withdraw cash
+2) deposit cash
+3) check balance
+4) exit
+
+It has an initial balance of Rs.1000
+
+Based on the option we select the respective message will be printed.
